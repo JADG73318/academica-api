@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic[email]>=2.6
+PyJWT>=2.8
+httpx>=0.27
